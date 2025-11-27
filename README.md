@@ -23,7 +23,7 @@
 1. Clone the repo
 ```
 git clone https://github.com/imondok03/Nice-Gadgets.git
-cd phone-catalog
+cd Nice-Gadgets
 ```
 
 2. Install dependencies
