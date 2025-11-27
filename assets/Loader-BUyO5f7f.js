@@ -1,0 +1,1 @@
+import{r as t,G as a,j as o}from"./index-2zzSzOf7.js";const e="https://imondok03.github.io/Nice-Gadgets/assets/logo_dark-BfREnrH9.svg",r="https://imondok03.github.io/Nice-Gadgets/assets/logo-CU5-laXR.svg",g=()=>{const{theme:s}=t.useContext(a);return o.jsx("div",{className:"loader",children:o.jsx("img",{src:s==="light"?r:e,alt:"Logo",className:"loader__image"})})};export{g as L};
